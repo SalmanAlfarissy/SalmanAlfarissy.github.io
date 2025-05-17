@@ -1,6 +1,6 @@
 $("#home").load("contents/home/home.html", function () {
     var typed = new Typed('.typed', {
-        strings: ["Software Engineer", "Web Developer", "UX Designer"],
+        strings: ["IT Programmer", "Software Engineer", "Web Developer"],
         typeSpeed: 50,
         backSpeed: 50,
         loop: true
